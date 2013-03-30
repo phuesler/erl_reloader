@@ -1,0 +1,9 @@
+ebin/**
+deps/**
+.DS_Store
+.eunit
+.idea
+*.log*
+*.beam
+.erlang
+erl_crash.dump
